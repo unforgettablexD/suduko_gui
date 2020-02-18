@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fa5d14e-1c02-47e3-9642-3761bd38f6ee" name="Default Changelist" comment="" />
+    <list default="true" id="0fa5d14e-1c02-47e3-9642-3761bd38f6ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XzHmfo12Ba4z14hMMCd8B6WBMr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,7 +29,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.gui">
     <configuration name="gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -92,22 +106,26 @@
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state x="-1536" y="226" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1582042518527" />
-    <state width="1419" height="230" key="GridCell.Tab.0.bottom" timestamp="1582042814251">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="1419" height="230" key="GridCell.Tab.0.bottom" timestamp="1582045989508">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1582042814251" />
-    <state width="1419" height="230" key="GridCell.Tab.0.center" timestamp="1582042814250">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="1419" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1582043569340" />
+    <state width="1419" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1582045989508" />
+    <state width="1419" height="230" key="GridCell.Tab.0.center" timestamp="1582045989507">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="230" key="GridCell.Tab.0.center/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1582042814250" />
-    <state width="1419" height="230" key="GridCell.Tab.0.left" timestamp="1582042814249">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="1419" height="230" key="GridCell.Tab.0.center/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1582043569339" />
+    <state width="1419" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1582045989507" />
+    <state width="1419" height="230" key="GridCell.Tab.0.left" timestamp="1582045989506">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="230" key="GridCell.Tab.0.left/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1582042814249" />
-    <state width="1419" height="230" key="GridCell.Tab.0.right" timestamp="1582042814250">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="1419" height="230" key="GridCell.Tab.0.left/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1582043569338" />
+    <state width="1419" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1582045989506" />
+    <state width="1419" height="230" key="GridCell.Tab.0.right" timestamp="1582045989507">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="230" key="GridCell.Tab.0.right/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1582042814250" />
+    <state width="1419" height="230" key="GridCell.Tab.0.right/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1582043569339" />
+    <state width="1419" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1582045989507" />
     <state x="-1189" y="190" key="SettingsEditor" timestamp="1582042808596">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
