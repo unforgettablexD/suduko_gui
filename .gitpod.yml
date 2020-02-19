@@ -1,0 +1,5 @@
+tasks:
+  - init: pip3 install pygame
+    command: python3 gui.py
+image:
+  file: .gitpod.Dockerfile
